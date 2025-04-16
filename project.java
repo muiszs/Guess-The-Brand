@@ -5,9 +5,6 @@
  */
 
 //AHMAD MUIZZUDDIN BIN AHMAD RIDZUAN 2211679
-//AHMAD HAKIMI BIN ADNAN             2212529
-//AHMED ASHRAF BIN ANUAR             2210177
-//AHMAD SHOLIHIN BIN KAMARUDDIN      2210097
 package first.program;
 import java.util.Scanner;
 import java.lang.Character;
